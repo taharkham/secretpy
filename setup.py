@@ -1,3 +1,6 @@
+#Комментарий созданный пользователем taharkham
+
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
